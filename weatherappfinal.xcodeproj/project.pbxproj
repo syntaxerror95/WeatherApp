@@ -19,6 +19,7 @@
 		5D93C6551F56A4360073A193 /* MainVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D93C6541F56A4360073A193 /* MainVC.swift */; };
 		5D93C6581F56A4650073A193 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D93C6571F56A4650073A193 /* Main.storyboard */; };
 		5D93C65A1F573F9C0073A193 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D93C6591F573F9C0073A193 /* TableViewCell.swift */; };
+		5D93C65C1F5ED40B0073A193 /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D93C65B1F5ED40B0073A193 /* Location.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +59,7 @@
 		5D93C6541F56A4360073A193 /* MainVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainVC.swift; sourceTree = "<group>"; };
 		5D93C6561F56A4650073A193 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5D93C6591F573F9C0073A193 /* TableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
+		5D93C65B1F5ED40B0073A193 /* Location.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
 		9F98D96023FE77584B8F8234 /* Pods_weatherappfinal.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_weatherappfinal.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -157,6 +159,7 @@
 				5D93C64F1F56A41F0073A193 /* CurrentWeather.swift */,
 				5D93C6501F56A41F0073A193 /* Constants.swift */,
 				5D93C6591F573F9C0073A193 /* TableViewCell.swift */,
+				5D93C65B1F5ED40B0073A193 /* Location.swift */,
 			);
 			name = view;
 			sourceTree = "<group>";
@@ -386,6 +389,7 @@
 				5D93C65A1F573F9C0073A193 /* TableViewCell.swift in Sources */,
 				5D93C6521F56A41F0073A193 /* CurrentWeather.swift in Sources */,
 				5D93C6511F56A41F0073A193 /* ForcastData.swift in Sources */,
+				5D93C65C1F5ED40B0073A193 /* Location.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
